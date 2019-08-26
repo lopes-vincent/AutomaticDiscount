@@ -1,4 +1,4 @@
-#AutomaticDiscount
+# AutomaticDiscount
 
 This module allows to automatically use coupons.
 
@@ -16,6 +16,6 @@ Add it in your main thelia composer.json file
 ```
 composer thelia/automatic-discount-module:~1.0
 ```
-##Uses
+## Uses
 
 This module add a new field `Automatic coupon` of type checkbox in the coupon edit form. If this field is check the coupon will be used automatically.
