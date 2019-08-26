@@ -2,7 +2,7 @@
 
 This module allows to automatically use coupons.
 
-##Instalation
+## Instalation
 
 ### Manually
 
